@@ -3,20 +3,34 @@
 
 ##### ✏️ Game Designer:
 
-##### 👥 Game Programmer:
+##### 👥 Game Programmer: 
 
-##### 🎨 Visual artist:
+##### 🎨 Visual artist: @Gyecko
 
-##### 🔉Sound designer:
+##### 🔉Sound designer: 
 
 ##### 🐸 QA and Game tester:
+
+------
+
+##### Caju - Master
+
+##### Matsu - Ladin Mage
+
+##### Gominho - Tank Mage
+
+##### Gyecko - Artist Archer
+
+##### Sabrina - Bardo
+
+
 
 
 ## Overview
 ### 📐 Project scope  
 Budget: 🐧
 
-Timeline:  hein ?
+Timeline:  hum?
 
 ### 🗣️ Elevator Pitch  
 > One sentence briefly but concisely describing the game.  
@@ -38,47 +52,46 @@ Imagina que você está de mudanças para sua nova casa, nova vida, enfim, um re
 
 Estilo 2.5D, cenário podendo ser uma mistura de 2D e 3D. 
 
-##### Core Game Mechanic #1  
+#### Core Game Mechanic #1  
 
-Details:  Movimentação para direita, esquerda e para cima.
+*Details:  Movimentação para direita, esquerda e para cima.*
 
-How it works:  Player, aperta tecla, o perso se move 
+*How it works:  Player, aperta tecla, o perso se move* 
 
-##### Core Game Mechanic #2  
+#### Core Game Mechanic #2  
 
-Details: Camera cinematica que segue o personagem.
+*Details: Camera cinematica que segue o personagem.*
 
-How it works:  Perso se move, a camera fica de stalker
+*How it works:  Perso se move, a camera fica de stalker 🕵‍♂*
 
-##### Core Game Mechanic #3  
+#### Core Game Mechanic #3  
 
-Details:
+*Details:*
 
-How it works:  
+*How it works:*  
 
 ### Game elements  
 > Describe your game world, including all the characters, location, object, and other elements in it.  
 
 ### 👤 Characters  
-Perso
+- **Perso**
+- Arania
+- Fantasminha
 
-...
-
-...
 
 ### 🗺️ Locations  
-...
-
-...
-
-...
+- Floresta 
+- Caverna
+- Escola
+- Laboratório 
+- Deserto 
 
 ### 🏆️ Levels / missions  
-Level 1 - floresta + matemática
-Level 2- escola + linguagem
-Level 3- laboratório + ciências
-Level 4- deserto + história e geografia 
-Level 5- (algo relacionado a arte não decidi)
+- Level 1 - floresta + matemática
+- Level 2- escola + linguagem
+- Level 3- laboratório + ciências
+- Level 4- deserto + história e geografia 
+- Level 5- (🤔)
 
 ### 📦️ Objects  
 ...
