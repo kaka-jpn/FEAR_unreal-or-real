@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/User/kazuo/Documents/GitHub/FEAR_unreal-or-real/Unreal Projects/fear_unreal/Content/Blank_map.umap"
+			]
+		}
+	]
+}
