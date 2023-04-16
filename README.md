@@ -1,18 +1,6 @@
 # Game Design Document
 ### 🎮️ Name of the game: FEAR  
 
-##### ✏️ Game Designer:
-
-##### 👥 Game Programmer: 
-
-##### 🎨 Visual artist: @Gyecko
-
-##### 🔉Sound designer: 
-
-##### 🐸 QA and Game tester:
-
-------
-
 ##### Caju - Master
 
 ##### Matsu - Ladin Mage
@@ -24,23 +12,13 @@
 ##### Sabrina - Bardo
 
 
-
-
 ## Overview
 ### 📐 Project scope  
 Budget: 🐧
 
-Timeline:  hum?
-
-### 🗣️ Elevator Pitch  
-> One sentence briefly but concisely describing the game.  
->
-> (vixi)
 
 ### 💵 Monetization  
-> Briefly explain how/if you plan to monetize the game.  
->
-> 2x (vixi)
+> 🐧  
 
 ### Story  
 > A one-paragraph synopsis of the story. If the story is too long, save the details for a separate document.  
@@ -78,7 +56,6 @@ Estilo 2.5D, cenário podendo ser uma mistura de 2D e 3D.
 - Arania
 - Fantasminha
 
-
 ### 🗺️ Locations  
 - Floresta 
 - Caverna
@@ -93,33 +70,3 @@ Estilo 2.5D, cenário podendo ser uma mistura de 2D e 3D.
 - Level 4- deserto + história e geografia 
 - Level 5- (🤔)
 
-### 📦️ Objects  
-...
-
-...
-
-...
-
-### Assets
-Here is where you will include all of the assets needed as well as brief descriptions.
-
-### 🎨 Art  
-...
-
-...
-
-...
-
-### 🔊 Sound  
-...
-
-...
-
-...
-
-### 🏃‍ Animation  
-...
-
-...
-
-...
